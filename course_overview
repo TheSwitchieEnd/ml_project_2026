@@ -1,6 +1,7 @@
-Learning outcomes:
-- Perform text analysis and use NLP to extract insights from text data. 
-- Process unstructured and semi-structured data sources and reformat into more machine-readable formats. 
-- Scrape information from external websites and process into a structured format 
-- Use Python (or a programming language of your choice) for data manipulation, analysis, visualisation, and system integration. 
-- Develop reproducible analysis and robust code. 
+2.1.	Module Learning Outcomes (LOs)
+By the end of this module, participants will be able to:
+1.	Compare and apply a range of sophisticated and appropriate machine learning techniques to solve organisational problems.
+2.	Critically analyse, interpret, and evaluate complex information from diverse datasets to predict and infer likely outcomes. 
+3.	Devise and direct an impartial, scientific, and hypothesis-driven approach to a work-based challenge, using rigorous data analysis methods.
+4.	Articulate data-driven conclusions in an appropriate manner.
+5.	Defend recommendations to decision makers, linking machine learning outcomes to  the achievement of your organisation’s goals.
